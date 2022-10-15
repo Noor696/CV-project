@@ -1,0 +1,7 @@
+{
+"Bio_sentence": ["Name", "Family Name", "Birth Year","Phone Number", "Email Address", "City Address" , "Nationality" , "Gender"],
+"Bio_template": "I'm {} {} , I was born in {} , '\n' - Contact me via phone number or e-mail : '\n' {} / {} . '\n' - I live in {} , my nationality is {}, '\n' -And my gender is {}",
+"lang_sentence" : [" language (Arabic , English)", "language lavel (Excelent , Good)"],
+"lang_template" : " '\n' - {} language , {} "
+
+}
